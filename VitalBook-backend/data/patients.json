@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1747467515903",
+    "jmeno": "Tereza",
+    "prijmeni": "Ciferská",
+    "medikace": "none",
+    "diagnostika": "kousl jí koník",
+    "priority": "high",
+    "datumNarozeni": "2003-02-11"
+  },
+  {
+    "id": "1747467567124",
+    "jmeno": "Jan",
+    "prijmeni": "Ježek",
+    "medikace": "morfin",
+    "diagnostika": "krypl",
+    "priority": "low",
+    "datumNarozeni": "2003-11-02"
+  },
+  {
+    "id": "1747467612036",
+    "jmeno": "Martin",
+    "prijmeni": "Mareček",
+    "medikace": "detralex, letrox, lipertance",
+    "diagnostika": "menglemengle",
+    "priority": "normal",
+    "datumNarozeni": "2004-09-27"
+  },
+  {
+    "id": "1747467727198",
+    "jmeno": "Petr",
+    "prijmeni": "Nekvinda",
+    "medikace": "godasal",
+    "diagnostika": "prvotřídní ňouma",
+    "priority": "high",
+    "datumNarozeni": "2004-01-12"
+  }
+]
